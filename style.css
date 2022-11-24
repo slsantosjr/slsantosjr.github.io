@@ -1,0 +1,51 @@
+* {
+    margin: 0%;
+}
+.menu {
+    text-align: right;
+    background: dodgerblue;
+    padding: 20px;
+}
+
+#logo {
+    float: left;
+    margin-top: 0%;
+}
+
+#top-home {
+    margin-top: 80px;
+    margin-bottom: 25px;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+}
+
+.container li {
+    display: inline-block;
+    font-size: 1.1rem;
+    color: #fff;
+    flex-direction: row;
+}
+
+.container li:hover {
+    background-color: gold;
+}
+
+.catalog {
+    box-sizing: border-box;
+    background-color: dodgerblue;
+    height: 40vw;
+}
+
+#alcas-categ {
+    margin-left: 30%;
+    text-align: center;
+}
+
+.bottom-home {
+    align-content: center;
+    box-sizing: border-box;
+    background-color: dodgerblue;
+}
+
+  
